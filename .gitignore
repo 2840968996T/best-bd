@@ -24,3 +24,5 @@ hs_err_pid*
 
 #.idea目录的所有文件
 .idea
+#配置文件
+*.properties
