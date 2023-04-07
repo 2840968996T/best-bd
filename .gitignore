@@ -26,3 +26,6 @@ hs_err_pid*
 .idea
 #配置文件
 *.properties
+*.yml
+#target文件
+target
