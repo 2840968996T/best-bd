@@ -8,6 +8,6 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 public class BestBDApplication {
     public static void main(String[] args) {
         SpringApplication.run(BestBDApplication.class, args);
-        System.out.println("http://127.0.0.1:8080/test");
+        System.out.println("http://127.0.0.1:8080");
     }
 }
